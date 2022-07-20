@@ -12,5 +12,5 @@ The pulse sensor module has a light which helps in measuring the pulse rate.
 When we place the finger on the pulse sensor, the light reflected will change based on the volume of blood inside the capillary blood vessels.
 This variation in light transmission and reflection can be obtained as a pulse from the output of pulse sensor. 
 This pulse can be then conditioned to measure heartbeat and then programmed accordingly to read as heartbeat count using Arduino.
-And the point and all the working is explained through including libraries and coding in c language.
+And the point and all the working is explained through including libraries and coding in c/cpp language.
 
